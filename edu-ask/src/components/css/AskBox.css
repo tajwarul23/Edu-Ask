@@ -1,0 +1,32 @@
+.askBox{
+    display: flex;
+    /* align-items: center; */
+    flex-direction: column;
+    padding: 10px;
+    border: 1px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.askBox:hover{
+ border: 1px solid gray;
+    
+}
+
+.box_info{
+    display: flex;
+    align-items: center;
+}
+.box_info > h5{
+    color: rgb(129, 129, 129);
+    font-weight: 500;
+    margin-left: 10px;
+
+}
+.box{
+    display: flex;
+    margin-top: 8px;
+}
+.box > p{
+    font-weight: bold;
+}

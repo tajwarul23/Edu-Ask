@@ -20,3 +20,14 @@
     
     
 }
+.btn > .MuiButton-root{
+    color: white;
+    background:blueviolet ;
+    border-radius: 5px;
+    
+}
+.btn > .MuiButton-root:hover{
+    color: white;
+    background-color: black;
+
+}

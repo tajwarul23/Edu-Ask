@@ -19,7 +19,7 @@ const Navbar = () => {
             <Avatar></Avatar>
             </div>
 
-            <Button>Add Question</Button>
+            <div className="btn"><Button >Add Question</Button></div>
         </div>
 
 
