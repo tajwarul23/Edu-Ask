@@ -1,0 +1,18 @@
+.widget-contents{
+    display: flex;
+    cursor: pointer;
+    flex-direction: column;
+    margin: 10px;
+    
+}
+.widget-content{
+    display: flex;
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.widget-content-title{
+    padding-left: 10px;
+}
